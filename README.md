@@ -1,3 +1,9 @@
+# French Grade School Math
+This is a fork from [GSM-8K](https://github.com/openai/grade-school-math) that adds a script to translate the dataset to French. The translations are made using an LLM prompt. 
+All the JSONL files in the data folder have already been translated using Llama 3.1.
+
+Below, you can find the original README.md of the dataset.
+
 **Status**: Archive (code is provided as-is, no updates expected)
 
 # Grade School Math
